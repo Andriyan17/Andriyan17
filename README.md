@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a student who wants to become a fullstack web developer.
+I'm a College Student who wants to become a fullstack web developer.
 
 
 ## 🔗 Links
