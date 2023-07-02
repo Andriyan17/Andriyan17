@@ -29,7 +29,7 @@ I'm a College Student and i'ev been learn code during 5 month
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b align="center">My GitHub Stats</b>
 
 <a href="http://www.github.com/Andriyan17"><img src="https://github-readme-stats.vercel.app/api?username=Andriyan17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Andriyan17's GitHub stats" /></a>
 
