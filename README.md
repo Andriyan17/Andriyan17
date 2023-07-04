@@ -27,10 +27,10 @@ I'm a College Student and i'ev been learn code during 5 month
 
 <p align="left"> <a href="https://www.github.com/Andriyan17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/andrginting_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andriyan-ginting" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+## 📊 My Github Stats
 
-<b align="center">My GitHub Stats</b>
-
-<a href="http://www.github.com/Andriyan17"><img src="https://github-readme-stats.vercel.app/api?username=Andriyan17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Andriyan17's GitHub stats" /></a>
-
-<a href="https://github.com/Andriyan17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andriyan17&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andriyan17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andriyan17&layout=compact&langs_count=8&theme=algolia"/>
+</p>
