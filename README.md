@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer
 -----------------------
 
-I'm a College Student and i'ev been learn code during 5 month
+I'm a College Student and i'ev been learn code
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [andrginting17@gmail.com](mailto:andrginting17@gmail.com)
